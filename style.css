@@ -1,0 +1,9 @@
+.campus_mainDiv{
+    border: 7px solid royalblue;
+}
+.campus_mainDiv img{
+    width: 100%;
+}
+.campus_mainDiv h5,.campus_mainDiv p{
+    margin: 20px;
+}
